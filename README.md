@@ -23,3 +23,18 @@ sağlar, IRFZ44N mosfet de sinyali anahtarlama yaparak power ledin parlaklığı
 **IRFZ44N :**   IR2112nin pwm sinyalini anahtarlama yapar.
 
 ## Devre Tasarımı
+Devrenin Proteus ISIS'te çizilmiş hali
+![Devre Tasarımı](https://github.com/turkmuhendisnet/ESP8266/blob/master/Devre%20Tasarımı.png)
+
+## Devre Baskı Çıktısı
+![Baskı Çıktısı](https://github.com/turkmuhendisnet/ESP8266/blob/master/Devre%20PCB%20Çıktısı.png)
+
+## Proje Telefon Uygulaması
+Uygulamanın telefon arayüzü
+  Ip giriniz kısmına ESP8266’nın ıp adresi yazılarak bağlantı sağlanır. Sliderdan ledin parlaklığı ayarlanır.
+
+![Telefon Uygulaması](https://github.com/turkmuhendisnet/ESP8266/blob/master/Proje%20Telefon%20Uygulaması.png)
+
+## Proje Son Hali
+![Proje Son Hali](https://github.com/turkmuhendisnet/ESP8266/blob/master/Proje%20Görüntüsü.png)
+
